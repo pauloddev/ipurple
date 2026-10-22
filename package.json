@@ -1,0 +1,9 @@
+{
+  "name": "ipurple-landing",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Landing page iPurple Imports (site estático para Vercel)",
+  "scripts": {
+    "set-url": "node scripts/set-site-url.mjs"
+  }
+}
